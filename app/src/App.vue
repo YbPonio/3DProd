@@ -1,7 +1,7 @@
 <template>
-  <ThreeDemo></ThreeDemo>
+    <SpinningCube></SpinningCube>
 </template>
 
 <script setup lang="ts">
-import ThreeDemo from './components/ThreeDemo.vue';
+import SpinningCube from './components/SpinningCube.vue';
 </script>
