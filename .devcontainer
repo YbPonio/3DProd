@@ -1,9 +1,7 @@
 {
   "name": "Vue + Three.js Codespace",
   "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
-  "features": {
-    "git": "latest"
-  },
-  "forwardPorts": [5173], // Vite default dev server port
-  "postCreateCommand": "npm install -g @vue/cli"
+  "features": {},
+  "forwardPorts": [5173],
+  "postCreateCommand": "npm install"
 }
